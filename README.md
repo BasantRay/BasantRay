@@ -4,7 +4,6 @@
 <h1 align="center">Hi 👋, I'm Basant Ray</h1>
 <h3 align="center">I am a skilled Flutter developer with expertise in creating dynamic and engaging mobile applications that are beautiful, responsive, and high-performing.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.psd-dude.com/tutorials/matrix-effect-animation-gif-photoshop-tutorial/matrix-rain-effect-animation-photoshop-editor.gif">
 
 
 
