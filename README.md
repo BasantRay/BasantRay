@@ -1,6 +1,6 @@
 
 <h1 align="left">Hi 👋, I'm Basant Ray</h1>
-<h3 align="left">A passionate frontend developer from Nepal</h3>
+<h3 align="left">A passionate Flutter Developer from Nepal</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left">I am a Flutter developer proficient in building high-performance cross-platform mobile apps. With expertise in Dart and Flutter's UI toolkit, I prioritize intuitive UI/UX, API integration, and optimized app performance to deliver exceptional user experiences.</p>
